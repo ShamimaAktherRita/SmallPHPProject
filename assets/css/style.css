@@ -1,0 +1,14 @@
+
+.banner-section{
+    background-image: url("../img/header.jpg");
+    height: 500px;
+}
+
+.card-form-div{
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.cb-footer{
+    background-color: rgba(212, 202, 203, 0.19);
+}
